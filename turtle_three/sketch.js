@@ -150,13 +150,13 @@ function draw() {
 		myTurtle4.turnRight(40);
 		myTurtle4.moveForward(20);
 		myTurtle4.turnRight(50);
-		myTurtle4.moveForward(20);
+		myTurtle4.moveForward(200);
 		myTurtle4.turnRight(50);
 		myTurtle4.moveForward(20);
 		myTurtle4.turnRight(20);
 		myTurtle4.moveForward(40);
 		myTurtle4.turnRight(20);
-		myTurtle4.moveForward(50);
+		myTurtle4.moveForward(100);
 	}
 	pop();
 }
